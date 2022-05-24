@@ -1,0 +1,48 @@
+2022.05.23 19:24:14 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrisjurrens/Desktop/scala_shit/webapp/.metals/lsp.trace.json or /Users/chrisjurrens/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.05.23 19:24:14 INFO  logging to file /Users/chrisjurrens/Desktop/scala_shit/webapp/.metals/metals.log
+2022.05.23 19:24:14 INFO  Started: Metals version 0.11.5 in workspace '/Users/chrisjurrens/Desktop/scala_shit/webapp' for client Visual Studio Code 1.67.2.
+2022.05.23 19:24:20 INFO  time: initialize in 5.58s
+2022.05.23 19:24:20 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.23 19:24:20 WARN  Build server is not auto-connectable.
+2022.05.23 19:24:25 WARN  no build target for: /Users/chrisjurrens/Desktop/scala_shit/webapp/src/main/scala/com/sauce/UserRoutes.scala
+2022.05.23 19:24:32 INFO  no build target found for /Users/chrisjurrens/Desktop/scala_shit/webapp/src/main/scala/com/sauce/UserRoutes.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.23 19:24:33 INFO  running '/Users/chrisjurrens/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11%252B28/OpenJDK11-jdk_x64_mac_hotspot_11_28.tar.gz/jdk-11+28/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/6w/1vfb_kwx6nzfz63624m2ftbh0000gn/T/metals3850581291415553796/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.05.23 19:24:34 WARN  no build target for: /Users/chrisjurrens/Desktop/scala_shit/webapp/project/metals.sbt
+2022.05.23 19:24:34 WARN  no build target for: /Users/chrisjurrens/Desktop/scala_shit/webapp/project/project/metals.sbt
+2022.05.23 19:24:34 INFO  skipping build import with status 'Started'
+2022.05.23 19:24:35 INFO  time: code lens generation in 8.6s
+2022.05.23 19:24:35 INFO  time: code lens generation in 1.5s
+2022.05.23 19:24:36 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 11)
+2022.05.23 19:24:41 INFO  [info] loading settings for project webapp-build-build-build from metals.sbt ...
+2022.05.23 19:24:43 INFO  [info] loading project definition from /Users/chrisjurrens/Desktop/scala_shit/webapp/project/project/project
+2022.05.23 19:24:46 WARN  no build target for: /Users/chrisjurrens/Desktop/scala_shit/webapp/src/test/scala/com/sauce/UserRoutesSpec.scala
+2022.05.23 19:24:47 INFO  [info] loading settings for project webapp-build-build from metals.sbt ...
+2022.05.23 19:24:47 INFO  [info] loading project definition from /Users/chrisjurrens/Desktop/scala_shit/webapp/project/project
+2022.05.23 19:24:52 INFO  [success] Generated .bloop/webapp-build-build.json
+2022.05.23 19:24:52 INFO  [success] Total time: 5 s, completed May 23, 2022, 7:24:53 PM
+2022.05.23 19:24:55 INFO  [info] loading settings for project webapp-build from metals.sbt,plugins.sbt ...
+2022.05.23 19:24:55 INFO  [info] loading project definition from /Users/chrisjurrens/Desktop/scala_shit/webapp/project
+2022.05.23 19:24:58 WARN  no build target for: /Users/chrisjurrens/Desktop/scala_shit/webapp/build.sbt
+2022.05.23 19:24:59 INFO  [success] Generated .bloop/webapp-build.json
+2022.05.23 19:24:59 INFO  [success] Total time: 4 s, completed May 23, 2022, 7:24:59 PM
+2022.05.23 19:25:02 INFO  [info] loading settings for project root from build.sbt ...
+2022.05.23 19:25:02 INFO  [info] set current project to webapp (in build file:/Users/chrisjurrens/Desktop/scala_shit/webapp/)
+2022.05.23 19:25:23 INFO  [success] Generated .bloop/root-test.json
+2022.05.23 19:25:23 INFO  [success] Generated .bloop/root.json
+2022.05.23 19:25:23 INFO  [success] Total time: 21 s, completed May 23, 2022, 7:25:23 PM
+2022.05.23 19:25:23 INFO  time: ran 'sbt bloopInstall' in 49s
+2022.05.23 19:25:23 INFO  Attempting to connect to the build server...
+2022.05.23 19:25:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrisjurrens/Desktop/scala_shit/webapp/.metals/bsp.trace.json or /Users/chrisjurrens/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.23 19:25:28 INFO  Attempting to connect to the build server...
+2022.05.23 19:25:28 INFO  Attempting to connect to the build server...
+2022.05.23 19:25:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrisjurrens/Desktop/scala_shit/webapp/project/project/.metals/bsp.trace.json or /Users/chrisjurrens/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.23 19:25:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrisjurrens/Desktop/scala_shit/webapp/project/.metals/bsp.trace.json or /Users/chrisjurrens/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.23 19:25:28 INFO  time: Connected to build server in 5.32s
+2022.05.23 19:25:28 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.23 19:25:28 INFO  time: Imported build in 0.14s
+2022.05.23 19:25:40 INFO  time: indexed workspace in 11s
+2022.05.23 19:25:51 INFO  time: code lens generation in 9.07s
+2022.05.23 19:28:55 INFO  compiling root (4 scala sources)
+2022.05.23 19:29:19 INFO  time: compiled root in 24s
+2022.05.23 19:33:44 INFO  compiling root-test (1 scala source)
+2022.05.23 19:33:48 INFO  time: compiled root-test in 3.73s
